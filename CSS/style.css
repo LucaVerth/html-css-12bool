@@ -9,3 +9,17 @@ body{
   border: 1px solid white;
   color: #fff;
 }
+
+.box2{
+  padding: 15px;
+  background-color: #00E166;
+  text-align: center;
+  border: 1px solid white;
+  color: #fff;
+  border: 1px solid #026CFA;
+}
+
+.space{
+  width: 100%;
+  height: 50px;
+}
